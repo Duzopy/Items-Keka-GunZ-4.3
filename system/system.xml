@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+
+<XMLHEADER>version="1.0" encoding="UTF-8"</XMLHEADER>
+<SKIN>Default</SKIN>
+<DEFFONT>Arial</DEFFONT>
+<IME>true</IME>
+
+<BAREPORT>
+<ADDR>www.battlearena.com</ADDR>
+<DIR>incoming/gunz_global</DIR>
+</BAREPORT>
+
+<EMBLEM_URL>http://heavengunz.com/</EMBLEM_URL>
+
+<HOMEPAGE>
+<URL>http://www.heavengunz.com</URL>
+<TITLE>heavengunz</TITLE>
+</HOMEPAGE>
+
+<LOCATORLIST>
+<LOCATOR id="1" IP="ph5.zapto.org" />
+<LOCATOR id="2" IP="ph5.zapto.org" />
+</LOCATORLIST>
+
+<TLOCATORLIST>
+<LOCATOR id="1" IP="ph5.zapto.org" />
+</TLOCATORLIST>
+</XML>

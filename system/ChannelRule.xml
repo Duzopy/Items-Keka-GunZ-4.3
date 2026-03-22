@@ -1,0 +1,305 @@
+<?xml version="1.0" ?>
+<!--ChannelRule To War GunZ
+	GAMETYPE_DEATHMATCH_SOLO	= 0
+ 	GAMETYPE_DEATHMATCH_TEAM	= 1
+	GAMETYPE_GLADIATOR_SOLO		= 2
+	GAMETYPE_GLADIATOR_TEAM		= 3
+	GAMETYPE_ASSASSINATE		= 4
+	GAMETYPE_TRAINING		= 5
+	GAMETYPE_SURVIVAL		= 6
+	GAMETYPE_QUEST			= 7
+	GAMETYPE_BERSERKER		= 8 
+	GAMETYPE_DEATHMATCH_TEAM2	= 9
+	GAMETYPE_DEATHMATCH_DUEL	= 10
+-->
+
+<XML id="channelrule">
+
+	<CHANNELRULE id="0" name="novice">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+	    <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+	
+                <MAP name="Athena" />
+		<MAP name="Base War" />
+		<MAP name="Battle Arena" />
+                <MAP name="Cs_Deathmatchz" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="de_dust2" />
+		<MAP name="de_dust1" />
+		<MAP name="Dojo" />
+		<MAP name="eRing" />
+		<MAP name="eRing2" />
+	        <MAP name="Factory" />
+	        <MAP name="Favela" />
+		<MAP name="Fx_Labirinto" />
+		<MAP name="Garden" />
+		<MAP name="Hall" />
+		<MAP name="Halloween" />
+		<MAP name="High_Haven" />
+		<MAP name="Island" />
+		<MAP name="Jail" />
+                <MAP name="KGMapv1" />
+                <MAP name="Mansion" />
+		<MAP name="Nest" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Port" />
+		<MAP name="Ruin" />
+		<MAP name="Station" />
+		<MAP name="Stairway" />
+		<MAP name="SkillMap" />			
+		<MAP name="SkillCityMap" />		
+		<MAP name="SkillMapv4" />
+		<MAP name="SkillMap_KG" />	
+		<MAP name="Skill_KekaGunz" />
+		<MAP name="Shower Room" />
+		<MAP name="Street" />
+		<MAP name="SuperFlip" />
+		<MAP name="StevensTDM" />
+		<MAP name="Sao Diogo" />
+		<MAP name="Snow_Town" />
+		<MAP name="Town" />
+		<MAP name="The_Mansion_KG" />
+
+
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="3" name="newbie">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+	    <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+                <MAP name="Athena" />
+		<MAP name="Base War" />
+		<MAP name="Battle Arena" />
+                <MAP name="Cs_Deathmatchz" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="de_dust2" />
+		<MAP name="de_dust1" />
+		<MAP name="Dojo" />
+		<MAP name="eRing" />
+		<MAP name="eRing2" />
+	        <MAP name="Factory" />
+	        <MAP name="Favela" />
+		<MAP name="Fx_Labirinto" />
+		<MAP name="Garden" />
+		<MAP name="Hall" />
+		<MAP name="Halloween" />
+		<MAP name="High_Haven" />
+		<MAP name="Island" />
+		<MAP name="Jail" />
+                <MAP name="KGMapv1" />
+                <MAP name="Mansion" />
+		<MAP name="Nest" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Port" />
+		<MAP name="Ruin" />
+		<MAP name="Station" />
+		<MAP name="Stairway" />
+		<MAP name="SkillMap" />			
+		<MAP name="SkillCityMap" />		
+		<MAP name="SkillMapv4" />
+		<MAP name="SkillMap_KG" />	
+		<MAP name="Skill_KekaGunz" />
+		<MAP name="Shower Room" />
+		<MAP name="Street" />
+		<MAP name="SuperFlip" />
+		<MAP name="StevensTDM" />
+		<MAP name="Sao Diogo" />
+		<MAP name="Snow_Town" />
+		<MAP name="Town" />
+		<MAP name="The_Mansion_KG" />
+
+
+	</CHANNELRULE>
+
+	<CHANNELRULE id="1" name="rookie">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="8" />			<!-- GAMETYPE_BERSERKER -->
+	    <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+        <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+	    <GAMETYPE id="10" />		<!-- GAMETYPE_DEATHMATCH_DUEL -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+                <MAP name="Athena" />
+		<MAP name="Base War" />
+		<MAP name="Battle Arena" />
+                <MAP name="Cs_Deathmatchz" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="de_dust2" />
+		<MAP name="de_dust1" />
+		<MAP name="Dojo" />
+		<MAP name="eRing" />
+		<MAP name="eRing2" />
+	        <MAP name="Factory" />
+	        <MAP name="Favela" />
+		<MAP name="Fx_Labirinto" />
+		<MAP name="Garden" />
+		<MAP name="Hall" />
+		<MAP name="Halloween" />
+		<MAP name="High_Haven" />
+		<MAP name="Island" />
+		<MAP name="Jail" />
+                <MAP name="KGMapv1" />
+                <MAP name="Mansion" />
+		<MAP name="Nest" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Port" />
+		<MAP name="Ruin" />
+		<MAP name="Station" />
+		<MAP name="Stairway" />
+		<MAP name="SkillMap" />			
+		<MAP name="SkillCityMap" />		
+		<MAP name="SkillMapv4" />
+		<MAP name="SkillMap_KG" />	
+		<MAP name="Skill_KekaGunz" />
+		<MAP name="Shower Room" />
+		<MAP name="Street" />
+		<MAP name="SuperFlip" />
+		<MAP name="StevensTDM" />
+		<MAP name="Sao Diogo" />
+		<MAP name="Snow_Town" />
+		<MAP name="Town" />
+		<MAP name="The_Mansion_KG" />
+
+
+	<!-- Only DUEL -->
+	</CHANNELRULE>
+
+
+	<CHANNELRULE id="2" name="mastery">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="8" />			<!-- GAMETYPE_BERSERKER -->
+	    <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+        <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+	    <GAMETYPE id="10" />		<!-- GAMETYPE_DEATHMATCH_DUEL -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+
+
+                <MAP name="Athena" />
+		<MAP name="Base War" />
+		<MAP name="Battle Arena" />
+                <MAP name="Cs_Deathmatchz" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="de_dust2" />
+		<MAP name="de_dust1" />
+		<MAP name="Dojo" />
+		<MAP name="eRing" />
+		<MAP name="eRing2" />
+	        <MAP name="Factory" />
+	        <MAP name="Favela" />
+		<MAP name="Fx_Labirinto" />
+		<MAP name="Garden" />
+		<MAP name="Hall" />
+		<MAP name="Halloween" />
+		<MAP name="High_Haven" />
+		<MAP name="Island" />
+		<MAP name="Jail" />
+                <MAP name="KGMapv1" />
+                <MAP name="Mansion" />
+		<MAP name="Nest" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Port" />
+		<MAP name="Ruin" />
+		<MAP name="Station" />
+		<MAP name="Stairway" />
+		<MAP name="SkillMap" />			
+		<MAP name="SkillCityMap" />		
+		<MAP name="SkillMapv4" />
+		<MAP name="SkillMap_KG" />	
+		<MAP name="Skill_KekaGunz" />
+		<MAP name="Shower Room" />
+		<MAP name="Street" />
+		<MAP name="SuperFlip" />
+		<MAP name="StevensTDM" />
+		<MAP name="Sao Diogo" />
+		<MAP name="Snow_Town" />
+		<MAP name="Town" />
+		<MAP name="The_Mansion_KG" />
+
+
+	</CHANNELRULE>
+	
+
+	<CHANNELRULE id="4" name="elite">
+	    <GAMETYPE id="0" />			<!-- GAMETYPE_DEATHMATCH_SOLO -->
+        <GAMETYPE id="8" />			<!-- GAMETYPE_BERSERKER -->
+	    <GAMETYPE id="1" />			<!-- GAMETYPE_DEATHMATCH_TEAM -->
+        <GAMETYPE id="9" />			<!-- GAMETYPE_DEATHMATCH_TEAM2 -->
+	    <GAMETYPE id="10" />		<!-- GAMETYPE_DEATHMATCH_DUEL -->
+        <GAMETYPE id="2" />			<!-- GAMETYPE_GLADIATOR_SOLO -->
+	    <GAMETYPE id="3" />			<!-- GAMETYPE_GLADIATOR_TEAM -->
+        <GAMETYPE id="4" />			<!-- GAMETYPE_ASSASSINATE -->
+	    <GAMETYPE id="5" />			<!-- GAMETYPE_TRAINING -->
+               
+
+                <MAP name="Athena" />
+		<MAP name="Base War" />
+		<MAP name="Battle Arena" />
+                <MAP name="Cs_Deathmatchz" />
+		<MAP name="Castle" />
+		<MAP name="Dungeon" />
+		<MAP name="de_dust2" />
+		<MAP name="de_dust1" />
+		<MAP name="Dojo" />
+		<MAP name="eRing" />
+		<MAP name="eRing2" />
+	        <MAP name="Factory" />
+	        <MAP name="Favela" />
+		<MAP name="Fx_Labirinto" />
+		<MAP name="Garden" />
+		<MAP name="Hall" />
+		<MAP name="Halloween" />
+		<MAP name="High_Haven" />
+		<MAP name="Island" />
+		<MAP name="Jail" />
+                <MAP name="KGMapv1" />
+                <MAP name="Mansion" />
+		<MAP name="Nest" />
+		<MAP name="Prison" />
+		<MAP name="Prison II" />
+		<MAP name="Port" />
+		<MAP name="Ruin" />
+		<MAP name="Station" />
+		<MAP name="Stairway" />
+		<MAP name="SkillMap" />			
+		<MAP name="SkillCityMap" />		
+		<MAP name="SkillMapv4" />
+		<MAP name="SkillMap_KG" />	
+		<MAP name="Skill_KekaGunz" />
+		<MAP name="Shower Room" />
+		<MAP name="Street" />
+		<MAP name="SuperFlip" />
+		<MAP name="StevensTDM" />
+		<MAP name="Sao Diogo" />
+		<MAP name="Snow_Town" />
+		<MAP name="Town" />
+		<MAP name="The_Mansion_KG" />
+
+
+	</CHANNELRULE>
+	
+</XML>

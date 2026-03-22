@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="channel">
+	<DEFAULTCHANNELNAME name="Keka Canal"/>
+	<DEFAULTRULENAME name="elite"/>
+
+	<CHANNEL name="[LEAD]Canal Geral" maxplayers="500" rule="elite"/>
+        <CHANNEL name="[LEAD]Canal Event" maxplayers="25" rule="elite"/>
+        <CHANNEL name="[LEAD]Canal Iniciante 30-" maxplayers="100" rule="elite" levelmax='30'/>
+	<CHANNEL name="Canal Pro sem Lead" maxplayers="50" rule="elite" levelmin='50'/>
+        <CHANNEL name="[LEAD]Canal Vip" maxplayers="50" rule="elite"/>
+        <CHANNEL name="[LEAD]Canal STAFF" maxplayers="25" rule="elite" levelmin='100'/>
+</XML>

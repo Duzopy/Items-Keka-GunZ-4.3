@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+
+<!-- 맵 정보관련 -->
+<MAP id="0" MapName ="Mansion" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="1" MapName ="Athena" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="2" MapName ="Battle Arena" MapImageName= "map_Battle Arena.bmp" BannerName = "banner_Battle Arena.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="3" MapName ="Base War" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="4" MapName ="CargoDock" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="5" MapName ="Castle" MapImageName= "map_Castle.bmp" BannerName = "banner_Castle.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="6" MapName ="Cs_Deathmatchz" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="7" MapName ="Dojo" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="8" MapName ="de_dust2" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="9" MapName ="de_dust1" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="10" MapName ="Dungeon" MapImageName= "map_Dungeon.bmp" BannerName = "banner_Dungeon.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="11" MapName ="eRing" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="12" MapName ="eRing2" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="13" MapName ="Factory" MapImageName= "map_Factory.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="0.8" MaxPlayers ="8" bOnlyDuelMap = "false"></MAP>
+<MAP id="14" MapName ="Favela" MapImageName= "map_Factory.bmp" BannerName = "banner_favela.tga" ExpRatio ="0.8" MaxPlayers ="8" bOnlyDuelMap = "false"></MAP>
+<MAP id="15" MapName ="Fx_Labirinto" MapImageName= "map_Dungeon.bmp" BannerName = "banner_Dungeon.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="16" MapName ="Garden" MapImageName= "map_Garden.bmp" BannerName = "banner_Garden.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="17" MapName ="Hall" MapImageName= "map_Dungeon.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="18" MapName ="Halloween" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="19" MapName ="High_Haven" MapImageName= "map_High_Haven.bmp" BannerName = "banner_High_Haven.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="20" MapName ="Island" MapImageName= "map_island.bmp" BannerName = "banner_island.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="21" MapName ="Jail" MapImageName= "map_Prison.bmp" BannerName = "banner_Prison.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="22" MapName ="KGMapv1" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="23" MapName ="Nest" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="24" MapName ="Port" MapImageName= "map_Port.bmp" BannerName = "banner_port.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="25" MapName ="Prison" MapImageName= "map_Prison.bmp" BannerName = "banner_Prison.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="26" MapName ="Prison II" MapImageName= "map_Prison II.bmp" BannerName = "banner_Prison II.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="27" MapName ="Ruin" MapImageName= "map_Ruin.bmp" BannerName = "banner_Ruin.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="28" MapName ="Station" MapImageName= "map_Station.bmp" BannerName = "banner_Station.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="29" MapName ="stairway" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="30" MapName ="StevensTDM" MapImageName= "map_Snow_Town.bmp" BannerName = "banner_Snow_Town.tga" ExpRatio ="1.5" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="31" MapName ="Shower Room" MapImageName= "map_Prison II.bmp" BannerName = "banner_Prison II.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="32" MapName ="SkillMap" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="33" MapName ="SkillCityMap" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="34" MapName ="SkillMapv4" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="35" MapName ="SkillMap_KG" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="36" MapName ="Skill_KekaGunz" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="37" MapName ="SuperFlip" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="38" MapName ="Street" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="39" MapName ="Sao Diogo" MapImageName= "map_Mansion.bmp" BannerName = "banner_Mansion.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="40" MapName ="Snow_Town" MapImageName= "map_Town.bmp" BannerName = "banner_Town.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="41" MapName ="Town" MapImageName= "map_Town.bmp" BannerName = "banner_Town.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+<MAP id="42" MapName ="The_Mansion_KG" MapImageName= "map_Town.bmp" BannerName = "banner_Town.tga" ExpRatio ="1" MaxPlayers ="16" bOnlyDuelMap = "false"></MAP>
+
+
+</XML>
